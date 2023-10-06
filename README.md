@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Simple Calculator 
+![Screenshot 2023-10-06 at 4 28 33 PM](https://github.com/Leng-H/React-Simple-Calculator/assets/45100515/3d45f9b2-c131-4884-b8ba-90a1a71129f8)
 
 ## Available Scripts
 
